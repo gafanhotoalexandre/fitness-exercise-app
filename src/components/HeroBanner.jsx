@@ -11,6 +11,9 @@ export function HeroBanner() {
         color="#ff2625"
         fontWeight="600"
         fontSize="26px"
+        sx={{
+          mt: { lg: '-120px' }
+        }}
       >
         Clube Fitness
       </Typography>
@@ -45,7 +48,7 @@ export function HeroBanner() {
           display: { lg: 'block', xs: 'none' }
         }}
       >
-        Exercise
+        Exercício
       </Typography>
 
       <img src={HeroBannerImage} alt="banner" className="hero-banner-img" />
