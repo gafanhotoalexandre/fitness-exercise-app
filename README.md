@@ -24,4 +24,5 @@ Este projeto faz uso das seguintes tecnologias:
 
 - ReactJS
 - Material UI
+- RapidAPI
 - Vite
