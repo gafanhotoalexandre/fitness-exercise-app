@@ -23,6 +23,7 @@ O Fitness Exercise App é a ferramenta perfeita para quem busca um estilo de vid
 Este projeto faz uso das seguintes tecnologias:
 
 - ReactJS
+- React Router
 - Material UI
 - RapidAPI
 - Vite
